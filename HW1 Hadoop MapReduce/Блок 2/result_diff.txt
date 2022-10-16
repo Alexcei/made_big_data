@@ -1,0 +1,3 @@
+Clean code mean: 152.7206871868289 var: 57672.84569843345
+Result MapReduce mean: 152.7206871868289
+Result MapReduce var: 57672.84569843345
